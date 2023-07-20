@@ -1,2 +1,2 @@
 # RockPaperScissorsSingle
-Single Player Rock/Paper/Scissors game
+Single Player Rock/Paper/Scissors game vs computer
